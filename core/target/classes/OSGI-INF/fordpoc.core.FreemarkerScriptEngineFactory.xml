@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0">
+    <scr:component name="fordpoc.core.FreemarkerScriptEngineFactory">
+        <implementation class="fordpoc.core.FreemarkerScriptEngineFactory"/>
+        <service servicefactory="false">
+            <provide interface="javax.script.ScriptEngineFactory"/>
+        </service>
+        <property name="service.vendor" value="Adobe"/>
+        <property name="service.pid" value="fordpoc.core.FreemarkerScriptEngineFactory"/>
+    </scr:component>
+</components>

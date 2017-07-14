@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>ford - UI content</comment>
+<entry key="createdBy">24816</entry>
+<entry key="name">ford.ui.content</entry>
+<entry key="created">2017-07-14T16:25:34.250+0530</entry>
+<entry key="groupId">ford</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">fprd</entry>
+<entry key="description">UI content package for ford</entry>
+<entry key="artifactId">ford.ui.content</entry>
+<entry key="path">/etc/packages/fprd/ford.ui.content.zip</entry>
+</properties>

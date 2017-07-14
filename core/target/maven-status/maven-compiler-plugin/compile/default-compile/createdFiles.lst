@@ -1,0 +1,8 @@
+fordpoc\core\schedulers\SimpleScheduledTask.class
+fordpoc\core\listeners\SimpleResourceListener.class
+fordpoc\core\models\HelloWorldModel.class
+fordpoc\core\servlets\SimpleServlet.class
+fordpoc\core\filters\LoggingFilter.class
+fordpoc\core\FreemarkerScriptEngineFactory.class
+fordpoc\core\package-info.class
+fordpoc\core\FreemarkerScriptEngine.class
